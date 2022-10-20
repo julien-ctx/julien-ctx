@@ -21,6 +21,7 @@ const JulienCaucheteux = {
 
 ✉️ Feel free to reach out if you have any question regarding my projects or my professional availability: jcauchet@student.42nice.fr
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/julien-caucheteux-39bba6223/)
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,php,html,css,vim,vscode,linux)](https://skillicons.dev)
 
