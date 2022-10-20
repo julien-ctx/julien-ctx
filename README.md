@@ -15,7 +15,7 @@ const JulienCaucheteux = {
 - 🎸 A guitar tuner (Javascript).
 - 🌱 An implementation of C++ containers.
 
-👉 You can check all my school projects [here](https://github.com/julien-ctx/42_common_core/).
+👉 You can have a look at my school projects [here](https://github.com/julien-ctx/42_common_core/).
 
 ### Contact
 
