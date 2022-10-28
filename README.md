@@ -7,13 +7,13 @@
 ```javascript
 const JulienCaucheteux = {
     mainLanguages: [C, C++],
-    currentlyLearning: [Javascript, Python],
+    currentlyLearning: [Python],
     interestedIn: ["web development", "artificial intelligence", "data science"]
 };
 ```
 💻 I’m currently working on:
-- 🎸 A guitar tuner (Javascript).
-- 🌱 An implementation of C++ containers.
+- 🎸 AI modules
+- 🌱 Webserv
 
 👉 You can have a look at my school projects [here](https://github.com/julien-ctx/42_common_core/).
 
@@ -23,5 +23,5 @@ const JulienCaucheteux = {
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/julien-caucheteux-39bba6223/)
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,php,html,css,vim,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,vim,vscode,linux)](https://skillicons.dev)
 
