@@ -25,3 +25,5 @@ const JulienCaucheteux = {
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,vim,vscode,linux)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-ctx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
