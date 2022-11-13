@@ -7,7 +7,7 @@
 ```javascript
 const JulienCaucheteux = {
     mainLanguages: [C, C++],
-    currentlyLearning: [Python],
+    currentlyLearning: [Python, C++],
     interestedIn: ["web development", "artificial intelligence", "data science"]
 };
 ```
