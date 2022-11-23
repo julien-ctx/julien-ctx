@@ -12,8 +12,8 @@ const JulienCaucheteux = {
 };
 ```
 💻 I’m currently working on:
-- 🎸 AI modules
-- 🌱 Webserv
+- 🎸 ft_containers
+- 🌱 webserv
 
 👉 You can have a look at my school projects [here](https://github.com/julien-ctx/42_common_core/).
 
