@@ -7,8 +7,8 @@
 ```javascript
 const JulienCaucheteux = {
     mainLanguages: [C, C++],
-    currentlyLearning: [Python, C++],
-    interestedIn: ["web development", "artificial intelligence", "data science"]
+    currentlyLearning: [Python, C++, Javascript],
+    interestedIn: ["mobile and web development", "artificial intelligence", "data science"]
 };
 ```
 💻 I’m currently working on:
