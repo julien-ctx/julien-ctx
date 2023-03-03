@@ -12,7 +12,7 @@ const JulienCaucheteux = {
 };
 ```
 💻 I’m currently working on:
-- 🎸 Inception
+- 🎸 Transcendence
 - 🌱 AI personal projects
 
 👉 You can have a look at my school projects [here](https://github.com/julien-ctx/42_common_core/).
