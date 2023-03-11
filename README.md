@@ -8,11 +8,11 @@
 const JulienCaucheteux = {
     mainLanguages: [C, C++],
     currentlyLearning: [Python, Javascript],
-    interestedIn: ["mobile and web development", "artificial intelligence", "data science"]
+    interestedIn: ["artificial intelligence", "data science"]
 };
 ```
 💻 I’m currently working on:
-- 🎸 Transcendence
+- 🏓 Transcendence
 - 🌱 AI personal projects
 
 👉 You can have a look at my school projects [here](https://github.com/julien-ctx/42_common_core/).
