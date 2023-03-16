@@ -4,13 +4,6 @@
 
 👨‍💻 I’m a 21 year-old french developer studying at **42 Nice**, France.
 
-```javascript
-const JulienCaucheteux = {
-    mainLanguages: [C, C++],
-    currentlyLearning: [Python, Javascript],
-    interestedIn: ["artificial intelligence", "data science"]
-};
-```
 💻 I’m currently working on:
 - 🏓 Transcendence
 - 🌱 AI personal projects
@@ -23,7 +16,7 @@ const JulienCaucheteux = {
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/julien-caucheteux-39bba6223/)
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,vim,vscode,linux,github,nginx,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,nestjs,svelte,html,css,vim,vscode,linux,github,nginx,wordpress)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-ctx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
