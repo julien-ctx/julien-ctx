@@ -4,8 +4,6 @@
 
 👨‍💻 I’m a 21 year-old french developer studying at **42 Nice**, France.
 
-👉 You can have a look at my school projects [here](https://github.com/julien-ctx/42_common_core/).
-
 ### Contact
 
 ✉️ Feel free to reach out if you have any question regarding my projects or my professional availability: jcauchet@student.42nice.fr
