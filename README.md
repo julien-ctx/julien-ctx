@@ -2,7 +2,7 @@
 
 ### Personal & Professional Details
 
-👨‍💻 I’m a 21 year-old french developer studying at **42 Nice**, France.
+👨‍💻 I’m a french developer studying at **42 Nice**, France.
 
 ### Contact
 
