@@ -17,5 +17,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=django,nestjs,svelte,nginx,docker,wordpress)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-ctx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julien-ctx&theme=highcontrast" alt="julien-ctx" /></p>
 
