@@ -16,6 +16,3 @@
 ### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=django,nestjs,svelte,nginx,docker,wordpress)](https://skillicons.dev)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julien-ctx&theme=highcontrast" alt="julien-ctx" /></p>
-
