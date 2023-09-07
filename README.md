@@ -8,7 +8,7 @@ I craft mobile apps with *Detail*, build websites with *Creativity*, and develop
 
 ### Ongoing Projects
 
-📱 I am currently developing a mobile app for a well-known french company, using React Native. 
+📱 I am currently developing a mobile app from scratch for a french company, using React Native.
 
 ### Tools
 
