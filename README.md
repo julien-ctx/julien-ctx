@@ -6,10 +6,6 @@
 
 I craft mobile apps with *Detail*, build websites with *Creativity*, and develop Artificial Intelligences with *Innovation*.
 
-### Ongoing Projects
-
-📱 I am currently developing a mobile app from scratch for a french company, using React Native.
-
 ### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,svelte,django,html,css,scss,docker)](https://skillicons.dev)
