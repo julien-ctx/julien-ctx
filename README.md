@@ -8,7 +8,7 @@ I craft mobile apps with *Detail*, build websites with *Creativity*, and develop
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,swift,html,css,scss,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,express,swift,html,css,scss,docker)](https://skillicons.dev)
 ### Contact
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/julien-caucheteux-39bba6223/)
