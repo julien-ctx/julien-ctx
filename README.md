@@ -4,8 +4,6 @@
 
 👨‍💻 I’m a french developer currently living in **Lille**, France 🇫🇷
 
-I craft mobile apps with *Detail*, build websites with *Creativity*, and develop Artificial Intelligences with *Innovation*.
-
 ### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,angular,express,swift,html,css,scss,docker)](https://skillicons.dev)
